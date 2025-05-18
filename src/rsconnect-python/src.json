@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\ESMERALDA\\OneDrive\\Documentos\\VisualProyectsLocal\\8vo Semestre\\Big Data\\e-proyecto-final\\src",
+        "app_url": "https://astaroth-duke666.shinyapps.io/capufo_proyect/",
+        "app_id": 14776989,
+        "app_guid": null,
+        "title": "capufo_proyect",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
